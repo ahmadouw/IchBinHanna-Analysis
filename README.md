@@ -6,8 +6,8 @@
 
 ### Overview
 This project is conducted as part of the interdisciplinary project module of the Data Science curriculum at the TU Vienna. The topic of the project is to identify events that correspond to the twitter hashtag #IchBinHanna
-using topic modelling and to perform sentiment analysis on a series of tweets containing the hashtag using dictionary based methods. The results are described in the paper. However they can not be reproduced (without access),
-as the data used is currently not publicly available. To make it possible to comprehend the analysis and methods used without having access to the data, the repository consists of documented Jupyter Notebooks that are described below.
+using topic modelling and to perform sentiment analysis on a series of tweets containing the hashtag using dictionary based methods. The results are described in the report. However they to reproduce them,
+the tweet collection (tweet IDs available at https://github.com/LaserSteff/IchbinHanna/blob/main/data/tweet_IDs/IchBinHanna_TweetIDs.txt). To make it possible to comprehend the analysis and methods used without obtaining the data, the repository consists of documented Jupyter Notebooks that are described below.
 
 ### Requirements
 The whole project is written in Python 3.8.5 and all versions of packages used can be found in the requirements.txt.
