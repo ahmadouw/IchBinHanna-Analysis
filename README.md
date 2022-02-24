@@ -31,3 +31,6 @@ The notebooks for VADER and LIWC contain a broad analysis of the sentiment of th
 The transformer notebook is used to check on the intuition that several aspects of the tweets result in bad performance of the dictionary based methods on the #IchBinHanna twitter data. Here a pretrained transformer model is used on the english tweets that classifies emotion.
 This part is not scientifically relevant and is only used to get a hint on the performance of the models.
 
+[![DOI](https://zenodo.org/badge/398203485.svg)](https://zenodo.org/badge/latestdoi/398203485)
+
+
